@@ -38,7 +38,7 @@ async def on_message(message):
 		await message.channel.send(random.choice(video))
 
 # EXECUTES THE BOT WITH THE SPECIFIED TOKEN. TOKEN HAS BEEN REMOVED AND USED JUST AS AN EXAMPLE.
-bot.run("OTgxMzEwNzYxNTM0MTE1ODUw.G5T38n.Twsvbs9hAMC4QRXzev4qNoNPV5xnP9BWrjuCWk")
+bot.run("OTgxMzEwNzYxNTM0MTE1ODUw.Gngctm.o-sOF7prxl8FOdHghHkxRC7ovzzPUqsDbAeEyE")
 
 
 
